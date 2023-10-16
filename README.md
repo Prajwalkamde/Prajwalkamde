@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prajwal Kamde</h1>
-<h3 align="center">A passionate python full stack developer from India</h3>
+<h3 align="center">A Passionate Python Full Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prajwalkamde&label=Profile%20views&color=0e75b6&style=flat" alt="prajwalkamde" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalkamde" alt="prajwalkamde" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce Website**
+- 🔭 I’m currently working on **Python Full Satck Development**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Python, Django, SQl**
 
-- 💬 Ask me about **Python, Web Development**
+- 💬 Ask me about **Python, Django, Web Development**
 
 - 📫 How to reach me **prajwalkamde264@gmail.com**
 
