@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalkamde" alt="prajwalkamde" /></a> </p>
 
-- 🔭 I’m currently working on **Python Full Satck Development**
+- 🔭 I’m currently working on **Python Full Stack Development**
 
-- 🌱 I’m currently learning **Python, Django, SQl**
+- 🌱 I’m currently learning **Python, Django, Django Rest Framework**
 
-- 💬 Ask me about **Python, Django, Web Development**
+- 💬 Ask me about **Python, Django, Django Rest Framework, APIs**
 
 - 📫 How to reach me **prajwalkamde264@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/prajwal-kamde-235b8521a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-kamde-235b8521a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajwal-kamde/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwal-kamde-235b8521a/" height="30" width="40" /></a>
 <a href="https://instagram.com/prajwal__kamde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prajwal__kamde" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/prajwalkamde264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajwalkamde264" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prajwalkamde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prajwalkamde" height="30" width="40" /></a>
