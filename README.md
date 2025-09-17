@@ -70,6 +70,8 @@
   </a>
 </p>
 
+[![An image of @prajwalkamde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prajwalkamde)](https://holopin.io/@prajwalkamde)
+
 ---
 
 ### 📊 GitHub Stats:
