@@ -1,15 +1,15 @@
 <!-- Stylish & Unique GitHub Profile README -->
 
-<h1 align="center">👋 Hey, I'm <span style="color:#4CAF50;">Prajwal Kamde</span></h1>
-<h3 align="center">💻 Passionate Python Full Stack Developer from India 🇮🇳</h3>
+<h1 align="left">👋 Hey, I'm <span style="color:#4CAF50;">Prajwal Kamde</span></h1>
+<h3 align="left">💻 Passionate Python Full Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=prajwalkamde&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views"/>
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="400" alt="Coding Gif"/>
 </p>
 
@@ -24,7 +24,7 @@
 ---
 
 ## 🌍 Connect with Me
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/prajwal-kamde/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://instagram.com/prajwal__kamde" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
   <a href="https://www.hackerrank.com/prajwalkamde264" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="40"/></a>
@@ -34,14 +34,14 @@
 ---
 
 ## 🛠️ Tech Stack & Tools
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,heroku" />
 </p>
 
 ---
 
 ## 🏆 Achievements
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=prajwalkamde&theme=radical&margin-w=10&margin-h=10&no-bg=true" alt="GitHub Trophies"/>
 </p>
 
