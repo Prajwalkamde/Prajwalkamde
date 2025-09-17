@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 ✨ A curious developer passionate about building **scalable web apps** and **robust APIs**.  
-🌱 Currently learning & leveling up in **Python | Django | DRF | JavaScript**.  
+🌱 Currently learning & leveling up in **Java | SpringBoot | JPA | Hibernate**.  
 💡 I love solving real-world problems through code.  
 📫 Reach me at: **[prajwalkamde264@gmail.com](mailto:prajwalkamde264@gmail.com)**  
 
@@ -67,9 +67,25 @@
 ---
 
 ## 🌱 My Current Learning Journey
-- 🚀 **Python** – mastering advanced concepts & libraries  
-- 🔥 **Django & DRF** – building powerful backend systems  
-- 🎨 **Frontend** – improving HTML, CSS, JavaScript & Bootstrap  
+
+### 🎨 Frontend
+- HTML, CSS, JavaScript  
+- Bootstrap (for responsive UI design)  
+
+### ⚙️ Backend
+- Python (advanced concepts & libraries)  
+- Django & Django Rest Framework (robust backend & APIs)  
+- Java (core & advanced)  
+- Spring Boot (microservices & enterprise apps)  
+- JPA & Hibernate (ORM & data handling)  
+
+### 🛠️ Tools
+- Git (version control)  
+- GitHub (collaboration & project hosting)  
+
+### 🗄️ Database
+- MySQL (relational database management)  
+
 
 ---
 
