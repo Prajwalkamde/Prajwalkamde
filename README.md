@@ -31,11 +31,18 @@
   <a href="https://auth.geeksforgeeks.org/user/prajwalkamde" target="_blank"><img src="https://img.icons8.com/color/48/000000/GeeksforGeeks.png" width="40"/></a>
 </p>
 
+<br/>
+
 ---
 
 ## 🛠️ Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,js,bootstrap,git,github,heroku" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,java,spring,bootstrap,html,css,js,git,github,heroku,mysql" />
+</p>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/django.png" width="40" title="Django Rest Framework"/>
+  <img src="https://img.icons8.com/color/48/000000/hibernate.png" width="40" title="Hibernate"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/database.png" width="40" title="JPA"/>
 </p>
 
 ---
@@ -72,6 +79,7 @@ Let’s **collaborate** and build something impactful together! 🤝
 
 ---
 
+## 🪄 Holopin Badges
 <p align="center">
   <img src="https://holopin.me/prajwalkamde" alt="Holopin Badges"/>
 </p>
